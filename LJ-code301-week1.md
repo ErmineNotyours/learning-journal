@@ -1,0 +1,8 @@
+## Learning Journal
+# Week 1
+
+Back when I was taking the telephone interview to be accepted into 201, I mentioned that I was thinking of quitting my job and taking the day track because I thought there might be too much homework.  The woman interviewing me said that I would have plenty of time to do the work in the time allotted.  That was true for 201, but not for 301.  I completely missed the SMACSS assignment as I turned in the other lab under that canvas page, then wondered why the first lab assignment still said it was not turned in.  I never had time to do it until Sunday, and I was worried that I was so far behind on the first week.  I did it, and it was easy.  Then we got to the coworking tasks.  I was paired with a seasoned coder who was pulling my weight for the Code War tasks and the start of the lab assignments.  On Saturday he went home sick before completing either lab.  I got much help from my TA on 01-Lab, though we still couldn't get the external links to work, and she thought at first that we didn't have to make the menu appear on a mobile touch.
+
+For 02-Lab I had to start the project from the beginning.  This finally gave me a feel for what I had to do in the project.  That's a problem with pairing partners who's abilities are too mismatched.  You would think the one with better abilities would help the weaker member, but Ovi was pulling my weight, and he seem exasperated.  I was also noticing my lack of sleep this week, and Ovi said I was acting hostile.
+
+Anyway, in 02, I still couldn't get the external files to link, so I couldn't tell if any other work I did worked.
