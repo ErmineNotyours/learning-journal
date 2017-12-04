@@ -5,4 +5,4 @@ Back when I was taking the telephone interview to be accepted into 201, I mentio
 
 For 02-Lab I had to start the project from the beginning.  This finally gave me a feel for what I had to do in the project.  That's a problem with pairing partners who's abilities are too mismatched.  You would think the one with better abilities would help the weaker member, but Ovi was pulling my weight, and he seem exasperated.  I was also noticing my lack of sleep this week, and Ovi said I was acting hostile.
 
-Anyway, in 02, I still couldn't get the external files to link, so I couldn't tell if any other work I did worked.  Now I need to see a TA to see what happened. No point in beating my head against the wall when I have other work, such as reading assignments to do.
+Anyway, in 02, I still couldn't get the external files to link, so I couldn't tell if any other work I did worked.  Now I need to see a TA to see what happened. No point in beating my head against the wall when I have other work, such as reading assignments to do.  I'm also still having problems using git.
